@@ -1,2 +1,3 @@
 class ProductsController < ApplicationController
-end
+    # Implement actions for listing, creating, updating, and deleting products.
+  end
